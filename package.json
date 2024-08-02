@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@codemirror/basic-setup": "^0.20.0",
+    "@codemirror/lang-javascript": "^6.2.2",
+    "ace-builds": "^1.35.4",
+    "bootstrap-icons": "^1.11.3"
+  }
+}
